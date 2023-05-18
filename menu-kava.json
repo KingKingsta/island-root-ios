@@ -1,0 +1,87 @@
+
+flutter pub get
+flutter packages pub run build_runner build --delete-conflicting-outputs
+{
+    "id": "0",
+    "section": "Kava",
+    "items": [
+      {
+        "id": "1",
+        "item": "Vanuatu",
+        "price": "6"
+      },
+      {
+        "id": "2",
+        "item": "Wow",
+        "price": "6"
+      },
+      {
+        "id": "3",
+        "item": "Solomon",
+        "price": "6"
+      },
+      {
+        "id": "4",
+        "item": "Solomon",
+        "price": "6"
+      },
+      {
+        "id": "5",
+        "item": "Fiji",
+        "price": "6"
+      },
+      {
+        "id": "6",
+        "item": "Papa New Guinea",
+        "price": "6"
+      },
+      {
+        "id": "7",
+        "item": "Volcano",
+        "price": "6"
+      },
+      {
+        "id": "8",
+        "item": "Mason Jar",
+        "option": [
+          {
+            "name": "16oz",
+            "price": "5"
+          },
+          {
+            "name": "refil",
+            "price": "10"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "item": "Growler",
+        "option": [
+          {
+            "name": "32oz",
+            "price": "20"
+          },
+          {
+            "name": "refil",
+            "price": "20"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "item": "Tanoa Bowl",
+        "option": [
+          {
+            "name": "32oz",
+            "price": "10"
+          },
+          {
+            "name": "63oz",
+            "price": "40"
+          }
+        ]
+      }
+    ]
+}
+

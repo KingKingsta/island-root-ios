@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "685289609073",
+    "project_id": "island-root",
+    "storage_bucket": "island-root.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685289609073:android:1976841b355991940508d0",
+        "android_client_info": {
+          "package_name": "com.islandroot.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685289609073-pc837od6e8nsj72pelojmkv8vfv7f9fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islandroot.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "685289609073-tii5eih1tdsmrge1rl3s4s647lh9ndv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmS23f4gDHRv-RLf_sh-TDteShHME0Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685289609073-dbik25o3712f5nbt8q6go291l7cn77b8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685289609073-3cthk7h6u5jl1jeimrv9nl9585dcre5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.islandrootClover.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685289609073:android:e10cd5354c58d5650508d0",
+        "android_client_info": {
+          "package_name": "com.islandrootClover.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685289609073-9p34ef3hhtdf7esticed88ia59959qcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islandrootClover.dashboard",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "685289609073-tii5eih1tdsmrge1rl3s4s647lh9ndv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmS23f4gDHRv-RLf_sh-TDteShHME0Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685289609073-dbik25o3712f5nbt8q6go291l7cn77b8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685289609073-3cthk7h6u5jl1jeimrv9nl9585dcre5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.islandrootClover.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
